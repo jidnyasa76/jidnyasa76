@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jidnyasa Chimane</h1>
-<h3 align="center">A passionate STUDENT from India</h3>
+<h3 align="center">A passionate STUDENT</h3>
 
-- 🌱 I’m currently learning **Git and Github**
-
-- 🤝 I’m looking for help with **Google & Microsoft**
+- 🌱 I’m currently learning **Web Developement**
 
 - ⚡ Fun fact **I'm in PCE**
 
